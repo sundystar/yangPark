@@ -2,30 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029951fe-00be-4a01-ba13-6d7c762c62b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/biaoqing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/biaoqing1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/logout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/member.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/meme.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/online.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/paopao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/paopaoright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/photo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/chart/img/sousuo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-icon-close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-icon-email.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-icon-menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-icon-password.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-icon-username.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/img/cd-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/df.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ee.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/秒杀.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arclist/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/chart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/chart/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/qqface/jquery.qqFace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chart.html" afterPath="$PROJECT_DIR$/chart.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yangPark.iws" />
@@ -71,8 +118,18 @@
       <file leaf-file-name="chart.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4585987">
-              <caret line="299" column="40" selection-start-line="299" selection-start-column="40" selection-end-line="299" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.31650245">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chart.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/chart.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.962963">
+              <caret line="252" column="1" selection-start-line="252" selection-start-column="1" selection-end-line="252" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -85,6 +142,7 @@
       <list>
         <option value="Html5" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -106,7 +164,10 @@
         <option value="$PROJECT_DIR$/秒杀.html" />
         <option value="$PROJECT_DIR$/df.css" />
         <option value="$PROJECT_DIR$/ee.html" />
+        <option value="$PROJECT_DIR$/js/chart/index.js" />
+        <option value="$PROJECT_DIR$/js/qqface/jquery.qqFace.js" />
         <option value="$PROJECT_DIR$/chart.html" />
+        <option value="$PROJECT_DIR$/css/chart.css" />
       </list>
     </option>
   </component>
@@ -182,10 +243,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js/qqface" />
       <recent name="$PROJECT_DIR$/file/chart/img" />
       <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/file/img" />
-      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -234,9 +296,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="23" width="1800" height="954" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17875211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17875211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -296,26 +358,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.018541409">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52046037">
-          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -331,25 +377,6 @@
     <entry file="file://$PROJECT_DIR$/file/chart/img/paopaoright.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/秒杀.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-77.583336">
-          <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#abbr#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#abbr#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#abbr#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1497510289000" expanded="true" signature="8958:8971" placeholder="..." />
-            <marker date="1497510289000" expanded="true" signature="9342:9355" placeholder="..." />
-            <marker date="1497510289000" expanded="true" signature="9727:9740" placeholder="..." />
-            <marker date="1497510289000" expanded="true" signature="11874:11887" placeholder="..." />
-            <marker date="1497510289000" expanded="true" signature="12182:12195" placeholder="..." />
-            <marker date="1497510289000" expanded="true" signature="12490:12503" placeholder="..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/chart/img/online.jpg">
@@ -398,10 +425,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7614338">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/秒杀.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-77.583336">
+          <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#abbr#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#abbr#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#abbr#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1497510289000" expanded="true" signature="8958:8971" placeholder="..." />
+            <marker date="1497510289000" expanded="true" signature="9342:9355" placeholder="..." />
+            <marker date="1497510289000" expanded="true" signature="9727:9740" placeholder="..." />
+            <marker date="1497510289000" expanded="true" signature="11874:11887" placeholder="..." />
+            <marker date="1497510289000" expanded="true" signature="12182:12195" placeholder="..." />
+            <marker date="1497510289000" expanded="true" signature="12490:12503" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/chart/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58732057">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6327751">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/qqface/jquery.qqFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48209718">
+          <caret line="84" column="7" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.962963">
+          <caret line="252" column="1" selection-start-line="252" selection-start-column="1" selection-end-line="252" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4585987">
-          <caret line="299" column="40" selection-start-line="299" selection-start-column="40" selection-end-line="299" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.31650245">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>

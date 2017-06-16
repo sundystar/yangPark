@@ -3,317 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>痒聊</title>
+    <link rel="stylesheet" href="css/chart.css" type="text/css">
+
     <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/chart/index.js"></script>
+    <script type="text/javascript" src="js/qqface/jquery.qqFace.js"></script>
+
 </head>
-<style>
-    html{
-        height: 100%;
-    }
-    body{
-        margin: 0;
-        padding: 0;
-        height: 100%;
-    }
-    .main {
-        position:relative;
-        overflow: hidden;
-        height: 100%;
-    }
-    .main .status {
-        float: left;
-        height:100%;
-        background-color: white;
-    }
-    #content{
-        width: 50%;
-        border-right: 1px solid darkgray;
-    }
-    #group{
-        width: 20%;
-        border-right: 1px solid darkgray;
-
-    }
-    #photo{
-        width: 10%;
-        border-right: 1px solid darkgray;
-        text-align: center;
-
-    }
-    #photo img{
-        position: relative;
-        top: 30px;
-        width:50%;
-        border-radius: 50%;
-    }
-
-    #photo .loginstatus img{
-        width: 15px;
-        height: 16px;
-    }
-    #photo .paopao{
-        position: relative;
-        margin-top: 40px;
-    }
-    #photo .member{
-        position: relative;
-        margin-top: 80px;
-    }
-    #photo .logout{
-        position: relative;
-        top: 40%;
-    }
-    #photo .logout img{
-        width: 25%;
-    }
-    #photo .member img{
-        width: 25%;
-    }
-    #photo .paopao img{
-        width: 25%;
-    }
-    img{
-        cursor: pointer;
-    }
-    #member{
-        width: 20%;
-        border-right: 1px solid darkgray;
-
-    }
-    #group .grouptop{
-        position: relative;
-        width: 100%;
-        height: 10%;
-        border-bottom: 1px solid darkgray;
-    }
-    #group .grouptop .group_search{
-        position: relative;
-        top: 15px;
-        width: 80%;
-        margin: 0px auto;
-        border: 1px solid darkgrey;
-        height: 50%;
-        border-radius: 20px;
-        display: block;
-        cursor: pointer;
-    }
-    #group .grouptop .group_search img{
-        position: relative;
-        width: 10%;
-        left: 10px;
-        top: 8px;
-    }
-    #group .grouptop .group_search_input{
-        position: relative;
-        top: 15px;
-        width: 80%;
-        margin: 0px auto;
-        height: 50%;
-        display: none;
-    }
-    #group  .grouptop .group_search_input input{
-        position: relative;
-        width: 100%;
-        border: 1px solid deepskyblue;
-        height: 100%;
-        font-size: 20px;
-    }
-    input:-webkit-autofill {-webkit-box-shadow: 0 0 0px 1000px white inset;}
-
-    #group .group_member{
-        width: 100%;
-        height: 90%;
-        overflow-y: scroll;
-    }
-    #group .group_member .group_member_simples{
-        width: 100%;
-        height: 8%;
-        background-color: #E0E0E0;
-    }
-    #group .group_member .group_member_simple{
-         width: 80%;
-         height: 100%;
-         margin: 0px auto;
-     }
-    #group .group_member .group_member_simple .nicheng{
-        position: relative;width: 50%;height: 40px;left: 25%;top: -45%;
-    }
-
-    #group .group_member .group_member_simple img{
-        width: 15%;
-        position: relative;
-        border-radius: 50%;
-        top: 10px;
-        left: 10px;
-    }
-    #content .content_top{
-        position: relative;
-        width: 100%;
-        height: 75%;
-        border-bottom: 1px solid darkgray;
-    }
-    #content .content_bottom{
-        position: relative;
-        width: 100%;
-        height: 25%;
-    }
-    #content .content_bottom .file{
-        position: relative;
-        width: 100%;
-        height: 20%;
-    }
-    #content .content_bottom .contentshuru{
-        position: relative;
-        width: 100%;
-        height: 80%;
-    }
-    #content .content_bottom .contentshuru textarea{
-        width: 99.5%;
-        height: 100%;
-        resize: none;
-        font-size: 18px;
-        border: 0px;
-        z-index: -10;
-    }
-    #content .content_top .another{
-        position: relative;
-        width: 99.9%;
-        height: 13.3%;
-        border-bottom: 1px solid darkgray;
-    }
-    #content .content_top .another span{
-        position: relative;
-        top: 30px;
-        left: 30px;
-        font-size: 20px;
-    }
-    #content .content_top .contentmessage{
-        position: relative;
-        width: 99.9%;
-        height: 86%;
-        overflow: auto;
-    }
-    #content .content_bottom .file .imgbiaoqingphoto{
-        width: 4%;top: 3px;position: relative;
-    }
-    #content .content_bottom .file .imgfilephoto{
-        width: 3%;position: relative;left: 5px;
-    }
-    #content .contentmessage .chatter_convo_left{
-        position: relative;
-        padding: 10px;
-    }
-    #content .contentmessage .chatter_convo_left .chatter_convo_img{
-        position: relative;
-        width: 5%;
-        float: left;
-    }
-    #content .contentmessage .chatter_convo_left .chatter_convo_img img{
-        width: 35px;
-        border-radius: 50%;
-    }
-    #content .contentmessage .chatter_convo_left .chatter_convo_content{
-        position:relative;
-        -webkit-border-radius:5px;
-        -moz-border-radius:5px;
-        border-radius:5px;
-        display:inline-block;
-        padding: 5px;
-        background-color: #95CACA;
-        float: left;
-        margin: 10px 0px;
-        max-width: 80%;
-    }
-    #content .contentmessage .chatter_convo_right{
-        position: relative;
-        padding: 10px;
-    }
-    #content .contentmessage .chatter_convo_right .chatter_convo_img{
-        position: relative;
-        width: 5%;
-        float: right;
-    }
-    #content .contentmessage .chatter_convo_right .chatter_convo_img img{
-        width: 35px;
-        border-radius: 50%;
-    }
-    #content .contentmessage .chatter_convo_right .chatter_convo_content{
-        position:relative;
-        -webkit-border-radius:5px;
-        -moz-border-radius:5px;
-        border-radius:5px;
-        display:inline-block;
-        padding: 5px;
-        background-color: #95CACA;
-        float: right;
-        margin: 10px 0px;
-        max-width: 80%;
-        right: 10px;
-    }
-    .clear{
-        clear: both;
-    }
-</style>
 <script>
-    $(function(){
-        $("#group_search").click(function(){
-           $(this).css("display","none");
-            $("#group_search_input").css("display","block");
-            $("#group_search_input input").focus();
+    $(function () {
+        $('#emotion').qqFace({
+            id : 'facebox',
+            assign:'saytext', //给输入框赋值
+            path:'arclist/'    //表情图片存放的路径
         });
-        $("#group_search_input input").blur(function(){
-            var inputval = $(this).val();
-            if(!inputval){
-                $("#group_search_input").css("display","none");
-                $("#group_search").css("display","block");
-            }
-
-        });
-
-        $("textarea").keydown(function(e){
-
-           if(e.keyCode===13){
-               //提交
-               /**
-                *
-                * <div class="chatter_convo_left">
-                <div class="chatter_convo_img">
-                <img src="file/chart/img/meme.jpeg" />
-                </div>
-                <div class="chatter_convo_content">
-                Hello!safmaslfmlksamfklsamkfmaskdf
-                </div>
-                <div class="clear"></div>
-                </div>
-                * @type {*|jQuery|HTMLElement}
-                */
-               if(this.value){
-                   var contentme = $("#contentmessage");
-
-                   var chatter_convo_right = $("<div class='chatter_convo_right'></div>");
-
-                   var chatter_convo_img = $("<div class='chatter_convo_img'></div>");
-                   var imgright =$("<img src='file/chart/img/meme.jpeg' />");
-                   $(chatter_convo_img).append(imgright);
-                   $(chatter_convo_right).append(chatter_convo_img);
-                   var content = $("<div class='chatter_convo_content'>"+this.value+"</div>");
-                   $(chatter_convo_right).append(content);
-                   var clear = $("<div class='clear'></div>");
-                   $(chatter_convo_right).append(clear);
-                   $(contentme).append(chatter_convo_right);
-                   $('.contentmessage').scrollTop( $('.contentmessage')[0].scrollHeight );
-               }
-               e.preventDefault();
-               this.value ='';
-           }
-        })
-        $('.contentmessage').scrollTop( $('.contentmessage')[0].scrollHeight );
-
-
     })
-
-
-
-
 </script>
 <body>
     <div class="main">
@@ -375,22 +79,23 @@
                 <div class="contentmessage" id="contentmessage">
 
 
-
                 </div>
             </div>
             <div class="content_bottom">
                 <div class="file">
-                    <img class="imgbiaoqingphoto" src="file/chart/img/biaoqing1.png" />
+                    <img class="imgbiaoqingphoto emotion" id="emotion" src="file/chart/img/biaoqing1.png" />
                     <img class="imgfilephoto" src="file/chart/img/file.png" />
+                    <input type="file" name="FILE" />
                 </div>
                 <div class="contentshuru">
-                    <textarea></textarea>
+                    <textarea id="saytext"></textarea>
                 </div>
             </div>
         </div>
         <div class="status" id="member">
 
         </div>
+        <IFRAME   NAME="view" id="view" WIDTH=100%></IFRAME>
     </div>
 </body>
 </html>
