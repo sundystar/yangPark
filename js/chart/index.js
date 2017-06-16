@@ -36,7 +36,7 @@ $(function(){
         var imgright =$("<img src='file/chart/img/meme.jpeg' />");
         $(chatter_convo_img).append(imgright);
         $(chatter_convo_left).append(chatter_convo_img);
-        var content = $("<div class='chatter_convo_content'>"+message+"</div>");
+        var content = $("<div class='chatter_convo_content'>"+replace_em(message)+"</div>");
         $(chatter_convo_left).append(content);
         var clear = $("<div class='clear'></div>");
         $(chatter_convo_left).append(clear);
