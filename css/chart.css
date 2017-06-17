@@ -159,7 +159,7 @@ input:-webkit-autofill {-webkit-box-shadow: 0 0 0px 1000px white inset;}
     height: 80%;
 }
 #content .content_bottom .contentshuru textarea{
-    width: 99.5%;
+    width: 99%;
     height: 100%;
     resize: none;
     font-size: 18px;
@@ -213,7 +213,7 @@ input:-webkit-autofill {-webkit-box-shadow: 0 0 0px 1000px white inset;}
     padding: 5px;
     background-color: #95CACA;
     float: left;
-    margin: 10px 0px;
+    margin: 10px 0px 0px 15px;
     max-width: 80%;
 }
 #content .contentmessage .chatter_convo_right{
